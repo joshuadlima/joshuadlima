@@ -45,14 +45,17 @@ B.E. in Computer Engineering · 9.16 CGPA
 
 ## Things I'm proud of
 
-**[Wormhole](https://github.com/YOUR_USERNAME/wormhole)** - A self-hosted ngrok-style reverse tunnel in Go, with multiplexed streams over TLS and auto-renewing certificates.
+**[Wormhole](https://github.com/joshuadlima/Wormhole)** - A self-hosted ngrok-style reverse tunnel in Go, with multiplexed streams over TLS and auto-renewing certificates.
 <br>`Go` `Yamux` `TLS` `CertMagic`
  
-**[ChatterBox](https://github.com/YOUR_USERNAME/chatterbox)** - Real-time anonymous text and video chat (similar to Omegle)  with race-free matchmaking, load tested to 2,100+ sessions on a 1-CPU box.
+**[ChatterBox](https://github.com/joshuadlima/ChatterBox)** - Real-time anonymous text and video chat (similar to Omegle)  with race-free matchmaking, load tested to 2,100+ sessions on a 1-CPU box.
 <br>`Flutter` `Django` `Redis + Lua` `WebRTC`
  
-**[Rosto Radar](https://github.com/YOUR_USERNAME/rosto-radar)** - Flutter apps that detect and report potholes in real time from phone motion and GPS sensors.
+**[Rosto Radar](https://github.com/joshuadlima/RADCM)** - Flutter apps that detect and report potholes in real time from phone motion and GPS sensors.
 <br>`Flutter` `Django` `Celery` `Channels`
+
+**[JPEG Decoder](https://github.com/joshuadlima/JPEG-Decoder)** - A C++ code to decode a jpeg file and output a bitmap file..
+<br>`C++` `JPEG`
 
 
 ## Toolbox
